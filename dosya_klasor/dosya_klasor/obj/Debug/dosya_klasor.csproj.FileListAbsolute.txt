@@ -1,0 +1,11 @@
+C:\Users\devra\Desktop\C# Projelerim\dosya_klasor\dosya_klasor\bin\Debug\dosya_klasor.exe.config
+C:\Users\devra\Desktop\C# Projelerim\dosya_klasor\dosya_klasor\bin\Debug\dosya_klasor.exe
+C:\Users\devra\Desktop\C# Projelerim\dosya_klasor\dosya_klasor\bin\Debug\dosya_klasor.pdb
+C:\Users\devra\Desktop\C# Projelerim\dosya_klasor\dosya_klasor\obj\Debug\dosya_klasor.csproj.AssemblyReference.cache
+C:\Users\devra\Desktop\C# Projelerim\dosya_klasor\dosya_klasor\obj\Debug\dosya_klasor.Form1.resources
+C:\Users\devra\Desktop\C# Projelerim\dosya_klasor\dosya_klasor\obj\Debug\dosya_klasor.Properties.Resources.resources
+C:\Users\devra\Desktop\C# Projelerim\dosya_klasor\dosya_klasor\obj\Debug\dosya_klasor.csproj.GenerateResource.cache
+C:\Users\devra\Desktop\C# Projelerim\dosya_klasor\dosya_klasor\obj\Debug\dosya_klasor.csproj.CoreCompileInputs.cache
+C:\Users\devra\Desktop\C# Projelerim\dosya_klasor\dosya_klasor\obj\Debug\dosya_klasor.exe
+C:\Users\devra\Desktop\C# Projelerim\dosya_klasor\dosya_klasor\obj\Debug\dosya_klasor.pdb
+C:\Users\devra\Desktop\C# Projelerim\dosya_klasor\dosya_klasor\obj\Debug\dosya_klasor.Metin_belgesi.resources
